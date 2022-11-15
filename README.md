@@ -1,3 +1,1 @@
 # :trollface: :trollface: :trollface:
-
-**`Безработный`**
