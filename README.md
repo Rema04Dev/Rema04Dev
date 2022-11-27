@@ -3,7 +3,7 @@
 </div>
 
 ---
-https://img.shields.io/badge/LinkedIn-blue
+[![Telegram](https://img.shields.io/badge/Telegram-30363d?style=for-the-badge&logo=Telegram)](https://t.me/nerealist)
 
 ### :trollface: Обо мне :
   - :dart: Ищу работу
@@ -17,7 +17,6 @@ https://img.shields.io/badge/LinkedIn-blue
 [![GitHub](https://img.shields.io/badge/GitHub-30363d?style=for-the-badge&logo=GitHub)](https://github.com/Rema04Dev)
  -->
 <!-- ## Follow me: ##
-[![Telegram](https://img.shields.io/badge/Telegram-30363d?style=for-the-badge&logo=Telegram)](https://t.me/nerealist)
 [![Gmail](https://img.shields.io/badge/Gmail-30363d?style=for-the-badge&logo=Gmail)](mailto:chusovitinalexandr@gmail.com)
 [![VK](https://img.shields.io/badge/VK-30363d?style=for-the-badge&logo=VK)](https://vk.com/aachusovitin)
 [![linkedin](https://img.shields.io/badge/linkedin-30363d?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksandrchusovitin/) -->
