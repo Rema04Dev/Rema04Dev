@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/1341046/screenshots/6024758/media/78828b53801229282a4dab80e2d44885.gif" width="33.3%"/>
+<img src="https://i.gifer.com/3odR.gif" width="33.3%"/>
 </div>
 
 ## Languages and tools: ##
