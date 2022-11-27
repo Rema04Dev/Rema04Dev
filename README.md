@@ -4,7 +4,7 @@
 
 ---
 
-### Обо мне:
+### :trollface: Обо мне:
   - :dart: Ищу работу
   - :man_beard: Холост
 ## Languages and tools: ##
