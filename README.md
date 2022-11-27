@@ -3,7 +3,7 @@
 </div>
 
 ---
-[![Telegram](https://img.shields.io/badge/Telegram-30363d?style=for-the-badge&logo=Telegram)](https://t.me/nerealist)
+[![Telegram](https://img.shields.io/badge/Telegram-30363d?style=for-the-badge&logo=Telegram)](https://t.me/Rema04Dev)
 
 ### :trollface: Обо мне :
   - :dart: Ищу работу
