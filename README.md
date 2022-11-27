@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://i.gifer.com/origin/68/6877f317fd8ab418202d6fa146076e61.gif" width="50%"/>
 </div>
-
+### Обо мне:
+  :dart: Ищу работу
+  :man_beard: Холост
 ## Languages and tools: ##
 [![Html5](https://img.shields.io/badge/HTML5-30363d?style=for-the-badge&logo=html5)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-30363d?style=for-the-badge&logo=CSS3)](https://www.w3schools.com/css/)
