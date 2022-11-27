@@ -1,6 +1,6 @@
-<!-- ![Header](https://github.com/aleksandrchusovitin/aleksandrchusovitin/blob/main/assets/images/logo.png) -->
-
-<!-- # *I am frontend/react developer* # -->
+<div align="center">
+<img src="https://cdn.dribbble.com/users/1341046/screenshots/6024758/media/78828b53801229282a4dab80e2d44885.gif" width="100"/>
+</div>
 
 ## Languages and tools: ##
 [![Html5](https://img.shields.io/badge/HTML5-30363d?style=for-the-badge&logo=html5)](https://www.w3schools.com/html/)
