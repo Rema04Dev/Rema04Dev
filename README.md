@@ -7,6 +7,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-30363d?style=for-the-badge&logo=Gmail)](mailto:rema04roman@gmail.com)
 
 :trollface:
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 <!-- 
 [![Html5](https://img.shields.io/badge/HTML5-30363d?style=for-the-badge&logo=html5)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-30363d?style=for-the-badge&logo=CSS3)](https://www.w3schools.com/css/)
