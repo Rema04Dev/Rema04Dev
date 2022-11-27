@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.gifer.com/3odR.gif" width="33.3%"/>
+<img src="[https://i.gifer.com/3odR.gif](https://i.gifer.com/origin/68/6877f317fd8ab418202d6fa146076e61.gif)" width="33.3%"/>
 </div>
 
 ## Languages and tools: ##
