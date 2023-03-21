@@ -8,7 +8,7 @@
 ---
 [![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRema04Dev&logo=leetcode&logoColor=yellow)](https://leetcode.com/Rema04Dev/)
 
-<h2> :trollface: &nbsp;Skills</h2>
+<h2>&nbsp;Skills</h2>
 <p align="left">
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25"/> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
