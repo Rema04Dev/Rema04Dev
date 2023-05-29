@@ -86,3 +86,7 @@
     - TODO application. A test task for DAO TECH
   </h4>                                                                                                   
 </div>
+
+#### Contacts:
+- email: rema04roman@gmail.com
+- telegram: @Ramon04
