@@ -84,7 +84,7 @@
 
 <div>
   <h4>
-    <a href=https://github.com/Rema04Dev/dao-tech__todo>Calorie-counter</a>
+    <a href=https://github.com/Rema04Dev/dao-tech__todo>dao-tech__todo</a>
     - TODO application. A test task for DAO TECH
   </h4>                                                                                                   
 </div>
