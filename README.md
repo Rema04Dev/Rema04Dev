@@ -48,7 +48,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrchusovitin&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 <hr />
+
 ### My studying projects from Hexlet: 
+
 <div>
   <h4>
     <a href=https://github.com/Rema04Dev/chat-js>Chat-js</a>
