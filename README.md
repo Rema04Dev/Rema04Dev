@@ -47,7 +47,8 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrchusovitin&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrchusovitin&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<hr />
+### My studying projects from [Hexlet](): 
 <div>
   <h4>
     <a href=https://github.com/Rema04Dev/chat-js>Chat-js</a>
@@ -65,5 +66,23 @@
   <h4>
     <a href=https://github.com/Rema04Dev/brain-games-cli>Brain-games-cli</a>
     - Set of simple math games with command-line interface.
-  </h4>                                                                                                                         
+  </h4>                                                                                                      
+</div>
+
+### My pet projects:
+
+<div>
+  <h4>
+    <a href=https://github.com/Rema04Dev/calories>Calorie-counter</a>
+    - This is SPA which allows calculate individual daily calorie allowance
+  </h4>                                                                                                   
+</div>
+
+### Test tasks:
+
+<div>
+  <h4>
+    <a href=https://github.com/Rema04Dev/dao-tech__todo>Calorie-counter</a>
+    - TODO application. A test task for DAO TECH
+  </h4>                                                                                                   
 </div>
