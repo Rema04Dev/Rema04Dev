@@ -47,3 +47,23 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrchusovitin&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrchusovitin&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<div>
+  <h4>
+    <a href=https://github.com/Rema04Dev/chat-js>Chat-js</a>
+    - Slack chat clone (a very simplified version)
+  </h4>
+  <h4>
+    <a href=https://github.com/Rema04Dev/RSS-aggregator>RSS-aggregator</a>
+    - Rss Reader is a service for aggregating RSS feeds that makes it easy to read a variety of sources. It allows you to add an unlimited number of RSS feeds, updates them and adds new entries to the total stream.
+  </h4>                                                                                                                      
+  <h4>
+    <a href=https://github.com/Rema04Dev/difference-finder-cli>Difference-finder-cli
+</a>
+    - This is utility that determines the difference between two data structures. A similiar mechanism is used when outputting tests or when automatically tracking changes in configuration files.
+  </h4>
+  <h4>
+    <a href=https://github.com/Rema04Dev/brain-games-cli>Brain-games-cli</a>
+    - Set of simple math games with command-line interface.
+  </h4>                                                                                                                         
+</div>
