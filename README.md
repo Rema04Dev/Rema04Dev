@@ -90,5 +90,5 @@
 </div>
 
 #### Contacts:
-- email: rema04roman@gmail.com
-- telegram: [@Ramon04](https://t.me/Ramon04)
+<h4>Telegram: <a href=https://t.me/Ramon04>@Ramon04</a></h4>                                                                                                           
+<h4>E-Mail: <a href="mailto:rema04roman@gmail.com">rema04roman@gmail.com</a></h4>    
