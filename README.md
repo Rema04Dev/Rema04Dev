@@ -47,24 +47,3 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrchusovitin&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrchusovitin&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
-
-### My Hexlet projects :
-<div>
-  <h4>
-    <a href=https://github.com/Vox1oot/frontend-project-12>Chat (Slack)</a>
-    - A live chat like (Slack). Simplified version. Thesis project!
-  </h4>
-  <h4>
-    <a href=https://github.com/Vox1oot/frontend-project-lvl3>RSS-aggregator</a>
-    - An application for the aggregation of RSS feeds. The app receives a source as input, checks the source for updates every 5 seconds, and allows you to read   each post as a short description, and a direct link to the specific post.
-  </h4>                                                                                                                      
-  <h4>
-    <a href=https://github.com/Vox1oot/frontend-project-lvl2>Gendiff</a>
-    - A console utility designed to calculate and display the difference between two data structures. The utility can display the difference in 2 formats.
-  </h4>
-  <h4>
-    <a href=https://github.com/Vox1oot/frontend-project-lvl1>Brain games</a>
-    - A console game in the format: question - answer.
-  </h4>                                                                                                                         
-</div>
-         
