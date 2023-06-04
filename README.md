@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://i.gifer.com/origin/68/6877f317fd8ab418202d6fa146076e61.gif" width="50%"/>
-</div>
+</div> -->
 
 ---
 [![Telegram](https://img.shields.io/badge/Telegram-30363d?style=for-the-badge&logo=Telegram)](https://t.me/Rema04Dev)
