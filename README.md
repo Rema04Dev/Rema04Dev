@@ -92,11 +92,11 @@
 ### Layouts
 <div>
   <h4>
-    <a href=https://github.com/Rema04Dev/lending-iphone>iphone design</a>
+    <a href=https://github.com/Rema04Dev/lending-iphone>IPhone design</a>
     - A simple adaptive layout design
   </h4>
  <h4>
-    <a href=https://github.com/Rema04Dev/lending-sup>iphone design</a>
+    <a href=https://github.com/Rema04Dev/lending-sup>Sup design</a>
     - A simple adaptive layout design
   </h4>  
 </div>
