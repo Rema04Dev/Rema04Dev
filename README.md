@@ -48,11 +48,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrchusovitin&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 <hr />
-#### Contacts:
-<h4>Telegram: <a href=https://t.me/Ramon04>@Ramon04</a></h4>                                                                                                           
-<h4>E-Mail: <a href="mailto:rema04roman@gmail.com">rema04roman@gmail.com</a></h4>  
-### My studying projects from Hexlet: 
 
+#### Contacts:
+<h4>E-Mail: <a href="mailto:rema04roman@gmail.com">rema04roman@gmail.com</a></h4>
+
+### My studying projects from Hexlet: 
 <div>
   <h4>
     <a href=https://github.com/Rema04Dev/chat-js>Chat-js</a>
