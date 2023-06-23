@@ -89,7 +89,7 @@
   </h4>                                                                                                   
 </div>
 
-### Layouts
+### Layouts:
 <div>
   <h4>
     <a href=https://github.com/Rema04Dev/lending-iphone>IPhone design</a>
