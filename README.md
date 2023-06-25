@@ -48,7 +48,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrchusovitin&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 ### Hi there 👋
 <hr />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rema04Dev&layout=compact)](https://github.com/Rema04Dev/github-readme-stats)
 #### Contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-30363d?style=for-the-badge&logo=Telegram)](https://t.me/Ramon04)
 [![Gmail](https://img.shields.io/badge/Gmail-30363d?style=for-the-badge&logo=Gmail)](mailto:rema04roman@gmail.com)
