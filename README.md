@@ -85,19 +85,7 @@
 
 <div>
   <h4>
-    <a href=https://github.com/Rema04Dev/dao-tech__todo>dao-tech__todo</a>
+    <a href=https://github.com/Rema04Dev/dao-tech__todo>todo</a>
     - TODO application. A test task for DAO TECH
   </h4>                                                                                              
 </div>
-
-### Layouts:
-<div>
-  <h4>
-    <a href=https://github.com/Rema04Dev/lending-iphone>IPhone design</a>
-    - A simple adaptive layout design
-  </h4>
- <h4>
-    <a href=https://github.com/Rema04Dev/lending-sup>Sup design</a>
-    - A simple adaptive layout design
-  </h4>  
-</div>  
