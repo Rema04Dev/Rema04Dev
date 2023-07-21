@@ -6,7 +6,7 @@
 
 <!-- --- -->
 [![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRema04Dev&logo=leetcode&logoColor=yellow)](https://leetcode.com/Rema04Dev/)
-![image](https://www.codewars.com/users/Rema04Dev/badges/large)
+![image](https://www.codewars.com/users/Rema04Dev/badges/small)
 <!-- <h2>&nbsp;Skills</h2> -->
 <!-- <p align="left"> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25"/> -->
