@@ -5,7 +5,7 @@
 <!-- --- -->
 
 <!-- --- -->
-[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRema04Dev&logo=leetcode&logoColor=yellow)](https://leetcode.com/Rema04Dev/)
+<!--[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRema04Dev&logo=leetcode&logoColor=yellow)](https://leetcode.com/Rema04Dev/) -->
 ![image](https://www.codewars.com/users/Rema04Dev/badges/small)
 <!-- <h2>&nbsp;Skills</h2> -->
 <!-- <p align="left"> -->
@@ -46,12 +46,12 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrchusovitin&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrchusovitin&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
-#### How to reach me:
+<!--#### How to reach me:-->
 [![Telegram](https://img.shields.io/badge/Telegram-30363d?style=for-the-badge&logo=Telegram)](https://t.me/Ramon04)
 [![Gmail](https://img.shields.io/badge/Gmail-30363d?style=for-the-badge&logo=Gmail)](mailto:rema04roman@gmail.com)
 
 
-### My studying projects from Hexlet: 
+<!-- ### My studying projects from Hexlet: 
 <div>
   <h4>
     <a href=https://github.com/Rema04Dev/chat-js>Chat-js</a>
@@ -88,4 +88,4 @@
     <a href=https://github.com/Rema04Dev/dao-tech__todo>todo</a>
     - TODO application. A test task for DAO TECH
   </h4>                                                                                              
-</div>
+</div> -->
